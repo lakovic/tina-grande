@@ -1,9 +1,9 @@
 {
   "color": {
-    "black": "#4A4A4A",
-    "white": "#FFFFFF",
-    "primary": "#DA4453",
-    "secondary": "#7D3569"
+    "black": "#FFFFFF",
+    "white": "#F8E71C",
+    "primary": "#4A90E2",
+    "secondary": "#FFFFFF"
   },
   "easing": "cubic-bezier(0.215, 0.610, 0.355, 1.000)",
   "breakpoints": {
@@ -16,20 +16,20 @@
     "small": "23px"
   },
   "header": {
-    "overline": false,
+    "overline": true,
     "transparent": true,
     "height": "3.25rem",
     "underline": true
   },
   "hero": {
     "image": "../images/Hero.png",
-    "large": false,
+    "large": true,
     "overlay": false,
     "overlap": "8rem",
-    "parallax": true
+    "parallax": false
   },
   "typography": {
-    "uppercaseH2": false
+    "uppercaseH2": true
   },
   "menu": {
     "style": ""
