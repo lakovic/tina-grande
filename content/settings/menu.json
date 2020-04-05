@@ -1,12 +1,16 @@
 {
   "menuItems": [
     {
-      "label": "Home",
-      "link": "/"
+      "label": "nex",
+      "link": "next"
     },
     {
       "label": "About",
       "link": "/about"
+    },
+    {
+      "label": "Home",
+      "link": "/"
     },
     {
       "label": "Projects",
